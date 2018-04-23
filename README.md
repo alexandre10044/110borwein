@@ -17,7 +17,7 @@ Usage:
 
 ./110borwein n
 
-constant   defining the integral to be computed
+n     constant defining the integral to be computed
 
 Example:
 
